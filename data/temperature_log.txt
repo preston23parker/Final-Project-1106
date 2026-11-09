@@ -1,0 +1,7 @@
+Temperature(F)	Status		Average(F)
+-------------------------------------------
+72.00F		NORMAL		72.00F
+65.00F		WARNING		68.50F
+78.00F		WARNING		71.67F
+72.00F		NORMAL		71.75F
+100.00F		WARNING		77.40F
